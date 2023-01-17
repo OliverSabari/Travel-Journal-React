@@ -1,0 +1,13 @@
+
+Header
+     1)Travel Journel heading with background color
+Body
+     2)Div
+        1)Image 
+        2)Location with URL
+        3)google map URL
+        4)heading 
+        5)Travelled Date
+        6)Paragraph
+    
+    *Using bootstrap and flex for responsiveness
