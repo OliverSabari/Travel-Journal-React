@@ -10,4 +10,4 @@ Body
         5)Travelled Date
         6)Paragraph
     
-    *Using bootstrap and flex for responsiveness
+    *For responsiveness used display flex as column
